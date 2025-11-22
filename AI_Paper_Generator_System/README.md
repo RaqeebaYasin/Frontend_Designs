@@ -34,14 +34,23 @@ JavaScript (ES6+)
 Directory Structure 📁
 AI_Paper_Generator_System/
 ├── public/
+
 ├── src/
+
 │   ├── assets/          # Logos, icons, images
+
 │   ├── components/      # Reusable UI components
+
 │   ├── pages/           # Application screens
+
 │   ├── App.jsx
+
 │   ├── main.jsx
+
 ├── package.json
+
 ├── tailwind.config.js
+
 ├── README.md
 
 Installation & Setup ⚙️
